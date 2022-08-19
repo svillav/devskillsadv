@@ -1,3 +1,8 @@
+# Pasos para reproducir la app:
+1) Instalar paquetes del servidor con `npm install` y ejecutarlo con `npm run serve`.
+2) Pararse sobre la carpeta /client y correr `npm install` para instalar dependencias.
+3) Ejecutar el cliente con `npm run start`.
+
 # Entrevista laboral
 ## Requisitos
 * Crear en una nueva carpeta el siguiente sitio web:
